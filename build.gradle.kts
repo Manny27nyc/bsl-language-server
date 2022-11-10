@@ -17,7 +17,7 @@ plugins {
     id("org.springframework.boot") version "2.5.4"
     id("io.spring.dependency-management") version "1.0.11.RELEASE"
     id("com.github.1c-syntax.bslls-dev-tools") version "d5920b5c1052ff1406a04132a24be5765e41c42e"
-    id("ru.vyarus.pom") version "2.2.0"
+    id("ru.vyarus.pom") version "2.2.2"
 }
 
 repositories {
